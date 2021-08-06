@@ -1,3 +1,32 @@
 body{
     text-align: center;
 }
+.ACHIEVEMENTS{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.ACHIEVEMENTS i{
+    float: right;
+}
+.ACHIEVEMENTS span{
+    color: #ff7700;
+}
+.NEW{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+.new img{
+    width: 100%;
+}
+.NEW hr{
+    width: 230px;
+}
+.NEW h5 ,.NEW p{
+    margin-left: 20px;
+}
